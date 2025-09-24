@@ -1,4 +1,3 @@
-<img width="1345" height="502" alt="Screenshot 2025-09-24 220852" src="https://github.com/user-attachments/assets/2e582905-7c55-4f8f-8895-be0664076af7" /># Ex03 Time Table
 ## Date:
 
 ## AIM
