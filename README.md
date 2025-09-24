@@ -1,4 +1,4 @@
-# Ex03 Time Table
+<img width="1345" height="502" alt="Screenshot 2025-09-24 220852" src="https://github.com/user-attachments/assets/2e582905-7c55-4f8f-8895-be0664076af7" /># Ex03 Time Table
 ## Date:
 
 ## AIM
@@ -25,9 +25,135 @@ Execute the program using runserver command.
 
 ## PROGRAM
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Time Table</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        table, th, td {
+            border: 1px solid black;
+        }
+        th, td {
+            padding: 10px;
+            text-align: center;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        .header {
+  font-size: 1.5em;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+<center>
+<img src="/static/logo.png" height="100" width="540"
+</center>
+    <div class="header">
+         <h3>SLOT TIME TABLE - Deepika D (25016783)</h3>
+    </div>
+
+    <table>
+        <tr>
+            <th>Day/Time</th>
+            <th>Monday</th>
+            <th>Tuesday</th>
+            <th>Wednesday</th>
+            <th>Thursday</th>
+            <th>Friday</th>
+            <th>Saturday</th>
+
+        </tr>
+        <tr>
+            <td>8-10</td>
+            <td>DS</td>
+            <td>DS</td>
+            <td>DS</td>
+            <td>FREE SLOT</td>
+            <td>FREE SLOT</td>
+            <td>Python Program</td>
+        </tr>
+        <tr>
+            <td>10-12</td>
+            <td>FREE SLOT</td>
+            <td>Python Program</td>
+            <td>FWAD</td>
+            <td>DS</td>
+            <td>Python Program</td>
+            <td>FREE SLOT</td>
+        </tr>
+        <tr>
+            <td>12-1</td>
+            <td>LUNCH</td>
+            <td>LUNCH</td>
+            <td>LUNCH</td>
+            <td>LUNCH</td>
+            <td>LUNCH</td>
+            <td>LUNCH</td>
+        </tr>
+        <tr>
+            <td>1-3</td>
+            <td>FWAD</td>
+            <td>FREE SLOT</td>
+            <td>FREE SLOT</td>
+            <td>FREE SLOT</td>
+            <td>FREE SLOT</td>
+            <td>FWAD</td>
+        </tr>
+        <tr>
+            <td>3-5</td>
+            <td>Python Program</td>
+            <td>FREE SLOT</td>
+            <td>FWAD</td>
+            <td>FWAD</td>
+            <td>DS</td>
+            <td>Python Program</td>
+        </tr>
+    </table>
+
+  <h3>Subjects:</h3>
+    <table>
+        <tr>
+            <th>S. No.</th>
+            <th>Subject Code</th>
+            <th>Subject Name</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>19AI414</td>
+            <td>Fundamentals of Web Application Development (FWAD)</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>19AI301</td>
+            <td>Fundamentals of Python Programming (Python Program)</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>19AI403</td>
+            <td>Introduction to Data Science (DS)</td>
+        </tr
+    </table>
+
+</body>
+</html>
 
 ## OUTPUT
 
 
+
+<img width="1345" height="502" alt="Screenshot 2025-09-24 220852" src="https://github.com/user-attachments/assets/c33f09ae-3d0e-4c4e-bf4e-40348771967b" />
+
+
+
 ## RESULT
+
 The program for creating slot timetable using basic HTML tags is executed successfully.
